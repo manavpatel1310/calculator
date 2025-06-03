@@ -13,7 +13,9 @@ A modern, responsive calculator web application built with HTML, CSS, and JavaSc
 
 ## Demo
 
-You can try the calculator by opening the `index.html` file in your web browser.
+Try the live demo: [Calculator Web App](https://manavpatel1310.github.io/calculator/)
+
+You can also run it locally by opening the `index.html` file in your web browser.
 
 ## Installation
 
